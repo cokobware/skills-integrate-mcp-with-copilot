@@ -47,4 +47,6 @@ The application uses a simple data model with meaningful identifiers:
    - Name
    - Grade level
 
-All data is stored in memory, which means data will be reset when the server restarts.
+## Storage
+
+Activity metadata and registrations are stored in [src/data/activities.json](/workspaces/skills-integrate-mcp-with-copilot/src/data/activities.json). The backend loads that file on startup and writes updates back to disk whenever a student signs up or unregisters, so the current state survives application restarts.

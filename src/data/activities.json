@@ -1,0 +1,123 @@
+{
+  "activities": {
+    "Chess Club": {
+      "description": "Learn strategies and compete in chess tournaments",
+      "schedule": "Fridays, 3:30 PM - 5:00 PM",
+      "max_participants": 12
+    },
+    "Programming Class": {
+      "description": "Learn programming fundamentals and build software projects",
+      "schedule": "Tuesdays and Thursdays, 3:30 PM - 4:30 PM",
+      "max_participants": 20
+    },
+    "Gym Class": {
+      "description": "Physical education and sports activities",
+      "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
+      "max_participants": 30
+    },
+    "Soccer Team": {
+      "description": "Join the school soccer team and compete in matches",
+      "schedule": "Tuesdays and Thursdays, 4:00 PM - 5:30 PM",
+      "max_participants": 22
+    },
+    "Basketball Team": {
+      "description": "Practice and play basketball with the school team",
+      "schedule": "Wednesdays and Fridays, 3:30 PM - 5:00 PM",
+      "max_participants": 15
+    },
+    "Art Club": {
+      "description": "Explore your creativity through painting and drawing",
+      "schedule": "Thursdays, 3:30 PM - 5:00 PM",
+      "max_participants": 15
+    },
+    "Drama Club": {
+      "description": "Act, direct, and produce plays and performances",
+      "schedule": "Mondays and Wednesdays, 4:00 PM - 5:30 PM",
+      "max_participants": 20
+    },
+    "Math Club": {
+      "description": "Solve challenging problems and participate in math competitions",
+      "schedule": "Tuesdays, 3:30 PM - 4:30 PM",
+      "max_participants": 10
+    },
+    "Debate Team": {
+      "description": "Develop public speaking and argumentation skills",
+      "schedule": "Fridays, 4:00 PM - 5:30 PM",
+      "max_participants": 12
+    }
+  },
+  "registrations": [
+    {
+      "activity_name": "Chess Club",
+      "email": "michael@mergington.edu"
+    },
+    {
+      "activity_name": "Chess Club",
+      "email": "daniel@mergington.edu"
+    },
+    {
+      "activity_name": "Programming Class",
+      "email": "emma@mergington.edu"
+    },
+    {
+      "activity_name": "Programming Class",
+      "email": "sophia@mergington.edu"
+    },
+    {
+      "activity_name": "Gym Class",
+      "email": "john@mergington.edu"
+    },
+    {
+      "activity_name": "Gym Class",
+      "email": "olivia@mergington.edu"
+    },
+    {
+      "activity_name": "Soccer Team",
+      "email": "liam@mergington.edu"
+    },
+    {
+      "activity_name": "Soccer Team",
+      "email": "noah@mergington.edu"
+    },
+    {
+      "activity_name": "Basketball Team",
+      "email": "ava@mergington.edu"
+    },
+    {
+      "activity_name": "Basketball Team",
+      "email": "mia@mergington.edu"
+    },
+    {
+      "activity_name": "Art Club",
+      "email": "amelia@mergington.edu"
+    },
+    {
+      "activity_name": "Art Club",
+      "email": "harper@mergington.edu"
+    },
+    {
+      "activity_name": "Drama Club",
+      "email": "ella@mergington.edu"
+    },
+    {
+      "activity_name": "Drama Club",
+      "email": "scarlett@mergington.edu"
+    },
+    {
+      "activity_name": "Math Club",
+      "email": "james@mergington.edu"
+    },
+    {
+      "activity_name": "Math Club",
+      "email": "benjamin@mergington.edu"
+    },
+    {
+      "activity_name": "Debate Team",
+      "email": "charlotte@mergington.edu"
+    },
+    {
+      "activity_name": "Debate Team",
+      "email": "henry@mergington.edu"
+    }
+  ]
+}
